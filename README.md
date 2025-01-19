@@ -3,7 +3,7 @@ A re-iteration on some of the complex safety-critical systems that have failed a
 
 **Essentially, 4 major catastrophic are covered in this re-treat:**
 
-**1) Therac-25**: a discontinued catastrophic radiation therapy produced by Atomic Energy of Canada Limited (AECL), that has led to many casualties as a result of concurrent programming issues (aka. Race Conditions of Malfunction-54) in addition to arithmetics overflow overwrite operations in commands.
+**1) [Therac-25](https://github.com/Electrostat-Lab/Embedded-Cybernetics/tree/master/therac-25)**: a discontinued catastrophic radiation therapy produced by Atomic Energy of Canada Limited (AECL), that has led to many casualties as a result of concurrent programming issues (aka. Race Conditions of Malfunction-54) in addition to arithmetics overflow overwrite operations in commands.
 
 **2) Air France Flight 447, aka. the Titanic of the Skies**: a tragic aircraft Atlantic crash in the aviation industry attributed primarily to failure of the hardware interface of pitot tubes (altimeter pressurized sensors), failure of FMCs (Flight Management Computers), and eventually loss of the situational awareness.
 
