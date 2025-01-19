@@ -1,4 +1,5 @@
 # Embedded-Cybernetics
+<img src="https://github.com/Electrostat-Lab/Embedded-Cybernetics/blob/master/asset/banner.jpeg" height=450 width=1500/>
 A re-iteration on some of the complex safety-critical systems that have failed a long time ago; as a result of the aligment of latent system failures with the active failures triggering catastrophic events. The iteration will uncover the essential scientific factors that have led to these major catastrophic events in addition to providing maneuvers that could be introduced to make the industry much safer.
 
 **Essentially, 4 major catastrophic are covered in this re-treat:**
